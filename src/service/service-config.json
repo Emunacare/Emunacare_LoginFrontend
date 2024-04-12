@@ -1,0 +1,10 @@
+{
+    "local_API" : "http://localhost:4003/",
+    "google_Client_ID" : "358213372322-0mb3dag2jro3edvog043hd9hvh5vjnbc.apps.googleusercontent.com",
+    "client_secrect" : "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",
+    "clientWebsite" : {
+        "emuna" : "https://emuna.co.in/",
+        "emunatech" : "http://emuna.tech",  
+        "emunaservices" : "https://emuna.services"
+    }
+}
